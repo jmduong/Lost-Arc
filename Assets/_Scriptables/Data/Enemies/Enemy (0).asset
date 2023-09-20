@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce0c3e8339a8544c9e716d56d42255e, type: 3}
+  m_Name: Enemy (0)
+  m_EditorClassIdentifier: 
+  Name: 
+  Title: 
+  Stats: 000000000000000000000000000000000000000000000000000000000000000000000000
+  Talents: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  Resistances: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  Range: 0
+  Affinity: 0
+  Attributes: 
+  Sprite: {fileID: 0}
+  Model: {fileID: 0}
+  ID: 0
+  Burst: 0
+  AdditionalHealthBars: 
+  Skills: 
+  Abilities: 

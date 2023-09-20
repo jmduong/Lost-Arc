@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 252336700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1783b65f3ef9a3c0017b01bf20d330f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 76da60e8cceb4826781a6ab57aec10ec
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: dc09ec7162b936447add5c7ef976b88b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Equipment/Weapons/Equipment (4).asset
+- Assets/_Scriptables/Data/Equipment/Weapons/Equipment (6).asset
+- Assets/_Scriptables/Data/Equipment/Weapons/Equipment (3).asset
+- Assets/_Scriptables/Data/Equipment/Weapons/Equipment (2).asset
+- Assets/_Scriptables/Data/Equipment/Weapons/Equipment (5).asset
+- Assets/_Scriptables/Data/Equipment/Weapons/Equipment (0).asset
+- Assets/_Scriptables/Data/Equipment/Weapons/Equipment (1).asset
+Dependencies: []

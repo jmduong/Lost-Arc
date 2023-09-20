@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e55d66ff2ea750c4b83317f5bd7c61c1, type: 3}
+  m_Name: Skill (1)
+  m_EditorClassIdentifier: 
+  Name: fgb
+  Active: 1
+  ID: 1
+  UniqueID: -1
+  Cost: 5
+  Mod: 10
+  Stat: 1
+  Affinity: 3
+  Target: 0
+  Mod_Values: 0a000000
+  Mod_StatTypes: 0b000000
+  Mod_Targets: 00000000
+  Price: 0000000000000000000000000000000000000000
+  Availability: 0000000000000000000000000000000000000000
+  Sprite: {fileID: 21300000, guid: 30aa170e2c0e6cf46884c1001f75375f, type: 3}

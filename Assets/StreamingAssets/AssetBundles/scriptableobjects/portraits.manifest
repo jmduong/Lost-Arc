@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 274279475
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e2b5021e355b698ecab25289c8bb378
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de7b1bc8570f8add0341613797e30a86
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: f9f5a9263068df04cb6594d5f416d5fc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Portraits/Portrait (0).asset
+Dependencies: []

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e55d66ff2ea750c4b83317f5bd7c61c1, type: 3}
+  m_Name: Skill (0)
+  m_EditorClassIdentifier: 
+  Name: thnsfgb
+  Active: 0
+  ID: 0
+  UniqueID: -1
+  Cost: 0
+  Mod: 0
+  Stat: 0
+  Affinity: 0
+  Target: 0
+  Mod_Values: 0a000000
+  Mod_StatTypes: 08000000
+  Mod_Targets: 00000000
+  Price: 0000000000000000000000000000000000000000
+  Availability: 0000000000000000000000000000000000000000
+  Sprite: {fileID: 21300000, guid: e447bc2dc3ed4f14392d794b3b000985, type: 3}

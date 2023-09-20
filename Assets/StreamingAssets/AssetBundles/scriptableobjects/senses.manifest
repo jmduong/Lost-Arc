@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 827245836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5662c88cc2f133e2a8be0ed4baffe142
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad9452c4f600cdc9d1e17de9e9d530a6
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: f2eb42c6c431a1c4481aec4252403238, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Senses/Sense.asset
+- Assets/_Scriptables/Data/Senses/Sense 1.asset
+- Assets/_Scriptables/Data/Senses/Sense 4.asset
+- Assets/_Scriptables/Data/Senses/Sense 3.asset
+- Assets/_Scriptables/Data/Senses/Sense 2.asset
+Dependencies: []

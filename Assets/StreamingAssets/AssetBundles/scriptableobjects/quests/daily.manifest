@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1315235575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66ffb6d0d340ac2475e24d920b0e7972
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 86d33ab052c7c570d7006ba75b3b3ac4
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: d103c3e7af77e6d45b12ff5f33a6d401, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Quests/Daily/Quest (0).asset
+Dependencies: []

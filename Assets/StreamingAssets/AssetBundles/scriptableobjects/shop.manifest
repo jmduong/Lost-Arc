@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3442917219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81093fd780807864d4c396ec4759488f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ba8f46a12a85b89ba57b0e3243a516
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 649a52af09feaf740a433dc509a1e649, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Shop/Shop 3.asset
+- Assets/_Scriptables/Data/Shop/Shop.asset
+- Assets/_Scriptables/Data/Shop/Shop 1.asset
+- Assets/_Scriptables/Data/Shop/Shop 2.asset
+- Assets/_Scriptables/Data/Shop/Shop 4.asset
+Dependencies: []

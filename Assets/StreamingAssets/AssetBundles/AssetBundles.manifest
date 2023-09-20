@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3601442807
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scriptableobjects/abilities
+      Dependencies: {}
+    Info_1:
+      Name: scriptableobjects/bursts
+      Dependencies: {}
+    Info_2:
+      Name: scriptableobjects/characters
+      Dependencies: {}
+    Info_3:
+      Name: scriptableobjects/enemies
+      Dependencies: {}
+    Info_4:
+      Name: scriptableobjects/skills
+      Dependencies: {}
+    Info_5:
+      Name: scriptableobjects/soulfragments
+      Dependencies: {}
+    Info_6:
+      Name: scriptableobjects/equipment/accessories
+      Dependencies: {}
+    Info_7:
+      Name: scriptableobjects/equipment/armor
+      Dependencies: {}
+    Info_8:
+      Name: scriptableobjects/equipment/helmets
+      Dependencies: {}
+    Info_9:
+      Name: scriptableobjects/equipment/weapons
+      Dependencies: {}
+    Info_10:
+      Name: scriptableobjects/materials/consumables
+      Dependencies: {}
+    Info_11:
+      Name: scriptableobjects/materials/events
+      Dependencies: {}
+    Info_12:
+      Name: scriptableobjects/materials/keys
+      Dependencies: {}
+    Info_13:
+      Name: scriptableobjects/materials/materials
+      Dependencies: {}
+    Info_14:
+      Name: scriptableobjects/quests/daily
+      Dependencies: {}
+    Info_15:
+      Name: scriptableobjects/quests/totalachievements
+      Dependencies: {}
+    Info_16:
+      Name: scriptableobjects/quests/weekly
+      Dependencies: {}
+    Info_17:
+      Name: scriptableobjects/stories
+      Dependencies: {}
+    Info_18:
+      Name: scriptableobjects/portraits
+      Dependencies: {}
+    Info_19:
+      Name: scriptableobjects/substories
+      Dependencies: {}
+    Info_20:
+      Name: scriptableobjects/quests/special
+      Dependencies: {}
+    Info_21:
+      Name: scriptableobjects/shop
+      Dependencies: {}
+    Info_22:
+      Name: scriptableobjects/materials/treasures
+      Dependencies: {}
+    Info_23:
+      Name: scriptableobjects/senses
+      Dependencies: {}

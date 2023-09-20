@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2595868062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98575df2c41ad95e68d54894664bedae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2206659e3a86dee06cb1bdc854a15d36
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1ce66c0f7108884592392fc24518f7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Soul Fragments/SoulFragment (1).asset
+- Assets/_Scriptables/Data/Soul Fragments/SoulFragment (0).asset
+Dependencies: []

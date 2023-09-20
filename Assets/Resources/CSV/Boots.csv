@@ -1,0 +1,5 @@
+Name,Set ID,Rarity,HP,mHP,EP,mEP,ATK,mATK,MAG,mMAG,SPD,mSPD,END,mEND,DEX,mDEX,LCK,mLCK,CHM,mCHM
+Adventurer's Boots,1,1,0,0,0,0,10,200,0,0,0,0,0,0,0,0,0,0,0,0
+Bronze Boots,2,1,0,0,0,0,20,400,0,0,0,0,0,0,2,20,0,0,0,0
+Silver Boots,3,2,0,0,0,0,30,600,10,20,0,0,0,0,2,20,0,0,0,0
+Gold Boots,4,3,0,0,0,0,40,800,10,20,0,0,0,0,2,20,2,20,0,0

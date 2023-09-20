@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1344714936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8a9b9423d0d03474b3e078681499542
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ba9b3ee342be4e4958494eca0e6296ca
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: fce0c3e8339a8544c9e716d56d42255e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Enemies/Enemy (0).asset
+Dependencies: []

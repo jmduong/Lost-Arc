@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 689826759
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc793a21432bf57e920094afe99fb589
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 76da60e8cceb4826781a6ab57aec10ec
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: dc09ec7162b936447add5c7ef976b88b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Equipment/Armor/Equipment (0).asset
+- Assets/_Scriptables/Data/Equipment/Armor/Equipment (4).asset
+- Assets/_Scriptables/Data/Equipment/Armor/Equipment (2).asset
+- Assets/_Scriptables/Data/Equipment/Armor/Equipment (1).asset
+- Assets/_Scriptables/Data/Equipment/Armor/Equipment (3).asset
+Dependencies: []

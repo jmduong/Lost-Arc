@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4256921029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f10771970fb59cefe12aa194b5f64cf6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9712c9cc554b978f170de35ef1a57a35
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: d103c3e7af77e6d45b12ff5f33a6d401, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Quests/Events/Quests.asset
+Dependencies: []

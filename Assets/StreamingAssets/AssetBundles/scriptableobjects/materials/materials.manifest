@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2085998470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3c6a4456ce6b65fc1b4da01f9a3dd27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a9dbf45bb8d9f981a4be7fabe2f10f0
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 99cda5bb429011440b09b0ed64caab50, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Materials/Materials/Materials (0).asset
+Dependencies: []

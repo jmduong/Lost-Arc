@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3084226582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2ae7fe0aee5f6f6fce250149729cf29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9be7674d3539512c4c93f32ba66f553
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62795a3c74397184c88c933bca9b39fd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Scriptables/Data/Bursts/Burst (0).asset
+Dependencies: []
